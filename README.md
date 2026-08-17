@@ -1,6 +1,11 @@
 <h1 align="center">
 Marvelous MLOps Free End-to-end MLOps with Databricks Course
 
+> **Attribution:** This repository is a fork of the
+> [Marvelous MLOps course repository](https://github.com/marvelousmlops/marvel-characters), kept for
+> course practice. The upstream course materials and dataset are not presented as original work by
+> this fork's owner.
+
 ## Set up your environment
 In this course, we use Databricks serverless [version 3](https://docs.databricks.com/aws/en/release-notes/serverless/environment-version/three)
 
